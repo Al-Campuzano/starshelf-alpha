@@ -1,0 +1,6 @@
+# Local-only editor and agent config
+CLAUDE.md
+.claude/
+
+# macOS
+.DS_Store
