@@ -9740,6 +9740,29 @@
    "author_ids": [
     253
    ]
+  },
+  {
+   "book_id": 403,
+   "title": "The Downloaded 2: Ghosts in the Machine",
+   "year_published": 2025,
+   "isbn": null,
+   "cover_image_url": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/25/c8/d7/25c8d758-1733-d726-d12a-3319933a840b/0004118081.jpg/600x600bb.jpg",
+   "wikipedia_url": null,
+   "purchase_url": "https://www.amazon.com/s?k=The%20Downloaded%202%3A%20Ghosts%20in%20the%20Machine%20Robert%20J.%20Sawyer&i=stripbooks",
+   "author_names": "Robert J. Sawyer",
+   "author_last_names": "Sawyer",
+   "awards": [
+    {
+     "award_id": 9,
+     "year_won": 2026,
+     "award_name": "Aurora Award"
+    }
+   ],
+   "description": "The Downloaded 2: Ghosts in the Machine is a 2025 science fiction novel by Canadian writer Robert J. Sawyer. The sequel to The Downloaded (2024), it won the 2026 Aurora Award for Best Novel.",
+   "ol_work_id": null,
+   "author_ids": [
+    1
+   ]
   }
  ],
  "authors": [
@@ -9884,6 +9907,19 @@
       {
        "award_id": 9,
        "year_won": 2017,
+       "award_name": "Aurora Award"
+      }
+     ]
+    },
+    {
+     "book_id": 403,
+     "title": "The Downloaded 2: Ghosts in the Machine",
+     "year_published": 2025,
+     "cover_image_url": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/25/c8/d7/25c8d758-1733-d726-d12a-3319933a840b/0004118081.jpg/600x600bb.jpg",
+     "awards": [
+      {
+       "award_id": 9,
+       "year_won": 2026,
        "award_name": "Aurora Award"
       }
      ]
