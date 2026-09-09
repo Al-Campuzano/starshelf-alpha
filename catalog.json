@@ -10031,6 +10031,7 @@
     {
      "book_id": 6,
      "title": "They'd Rather Be Right",
+     "alternate_title": "The Forever Machine",
      "year_published": 1954,
      "cover_image_url": "https://covers.openlibrary.org/b/id/6874396-L.jpg",
      "awards": [
@@ -10058,6 +10059,7 @@
     {
      "book_id": 6,
      "title": "They'd Rather Be Right",
+     "alternate_title": "The Forever Machine",
      "year_published": 1954,
      "cover_image_url": "https://covers.openlibrary.org/b/id/6874396-L.jpg",
      "awards": [
@@ -10310,6 +10312,7 @@
     {
      "book_id": 13,
      "title": "Way Station",
+     "alternate_title": "Here Gather the Stars",
      "year_published": 1963,
      "cover_image_url": "https://covers.openlibrary.org/b/id/14169-L.jpg",
      "awards": [
@@ -13800,6 +13803,7 @@
     {
      "book_id": 133,
      "title": "The Child Garden",
+     "alternate_title": "Love Sickness",
      "year_published": 1989,
      "cover_image_url": "https://covers.openlibrary.org/b/id/8259416-L.jpg",
      "awards": [
@@ -14199,6 +14203,7 @@
     {
      "book_id": 291,
      "title": "Black Man",
+     "alternate_title": "Thirteen",
      "year_published": 2007,
      "cover_image_url": "https://covers.openlibrary.org/b/id/380235-L.jpg",
      "awards": [
